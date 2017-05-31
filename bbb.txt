@@ -1,6 +1,6 @@
-Test
-ABC
-123
+test
+abc
+12345
 Hello!
 Sample
 AAA
